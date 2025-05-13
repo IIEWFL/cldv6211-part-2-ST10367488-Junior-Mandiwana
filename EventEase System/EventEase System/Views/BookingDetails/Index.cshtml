@@ -1,0 +1,51 @@
+﻿@model IEnumerable<EventEase_System.Models.VwBookingDetail>
+
+<h1 class="text-center my-4" style="color: #2c3e50;">Booking Details</h1>
+
+<!-- Added Search Form -->
+<div class="row justify-content-center mb-4">
+    <div class="col-md-8">
+        <form method="get" asp-controller="BookingDetails" asp-action="BookingDetails" class="d-flex">
+            <input type="text" name="searchTerm"
+                   class="form-control rounded-0 rounded-start"
+                   placeholder="Search by name or booking ID"
+                   value="@Context.Request.Query["searchTerm"]"
+                   style="border: 1px solid #bdc3c7;">
+            <button type="submit" class="btn rounded-0 rounded-end"
+                    style="background: #3498db; color: white; border: 1px solid #3498db;">
+                Search
+            </button>
+        </form>
+    </div>
+</div>
+
+<a class="btn mb-4" asp-action="Create" asp-controller="BookingDetails"
+   style="background: #3498db; color: white; border: none; padding: 10px 20px;">Create New Booking</a>
+
+<div class="row justify-content-center">
+    @foreach (var bookingDetail in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-lg border-0 rounded-lg" style="border-top: 4px solid #3498db;">
+                <div class="card-header text-center" style="background: #2c3e50; color: #ecf0f1;">
+                    <h5 class="card-title mb-0">Booking by FirstName LastName</h5>
+                </div>
+                <img src="~/images/Grelish.jpg" class="card-img-top" alt="Booking Image"
+                     style="height: 200px; object-fit: cover;">
+                <div class="card-body" style="background: #f8f9fa;">
+                    <p style="color: #2c3e50;"><strong>Lecturer Details:</strong></p>
+                    <p style="color: #34495e;"><strong>Email:</strong> Email</p>
+                    <p style="color: #34495e;"><strong>Phone:</strong> PhoneNumber</p>
+                    <div class="d-flex justify-content-between">
+                        <a asp-action="Details" asp-controller="BookingDetails" asp-route-id=""
+                           class="btn" style="background: #2980b9; color: white;">Details</a>
+                        <a asp-action="Edit" asp-controller="BookingDetails" asp-route-id=""
+                           class="btn" style="background: #27ae60; color: white;">Edit</a>
+                        <a asp-action="Delete" asp-controller="BookingDetails" asp-route-id=""
+                           class="btn" style="background: #e74c3c; color: white;">Delete</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

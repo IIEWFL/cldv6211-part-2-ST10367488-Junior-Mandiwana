@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\views\\bookingdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:views\\bookingdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\views\\bookingdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:views\\bookingdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\views\\bookingdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:views\\bookingdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\views\\bookingdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:views\\bookingdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\controllers\\bookingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:controllers\\bookingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\views\\bookingdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:views\\bookingdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\models\\vwbookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:models\\vwbookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|c:\\users\\maseo junior\\desktop\\eventease system\\eventease system\\models\\bookingdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8AA740-FC6F-4A24-A91D-E88344516E0C}|EventEase System.csproj|solutionrelative:models\\bookingdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:20:01.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:40:12.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventEaseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Data\\EventEaseDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EventEaseDbContext.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Data\\EventEaseDbContext.cs",
+              "RelativeToolTip": "Data\\EventEaseDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:45:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:36:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Data\\MyDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:24:35.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingDetails\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Delete.cshtml",
+              "RelativeToolTip": "Views\\BookingDetails\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:44:15.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingDetails\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Details.cshtml",
+              "RelativeToolTip": "Views\\BookingDetails\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:52:55.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:44:39.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\BookingDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookingDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\BookingDetailViewModel.cs",
+              "RelativeToolTip": "Models\\BookingDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:44:36.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingDetails\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Edit.cshtml",
+              "RelativeToolTip": "Views\\BookingDetails\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T15:33:43.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Controllers\\BookingDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingDetailsController.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Controllers\\BookingDetailsController.cs",
+              "RelativeToolTip": "Controllers\\BookingDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:49:28.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VwBookingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\VwBookingDetail.cs",
+              "RelativeDocumentMoniker": "Models\\VwBookingDetail.cs",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Models\\VwBookingDetail.cs",
+              "RelativeToolTip": "Models\\VwBookingDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:22:12.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Index.cshtml",
+              "RelativeToolTip": "Views\\BookingDetails\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T14:14:03.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookingDetails\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maseo Junior\\Desktop\\EventEase System\\EventEase System\\Views\\BookingDetails\\Create.cshtml",
+              "RelativeToolTip": "Views\\BookingDetails\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T14:12:50.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

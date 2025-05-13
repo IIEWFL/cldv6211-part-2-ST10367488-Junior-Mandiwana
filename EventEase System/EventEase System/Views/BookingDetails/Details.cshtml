@@ -1,0 +1,34 @@
+﻿@model EventEase_System.Models.BookingDetailViewModel
+
+<h1>Booking Details</h1>
+
+<div class="container text-center">
+    <div class="card" style="width: 24rem;">
+        @if (Model == null)
+        {
+            <p class="text-danger">Error: No booking details found.</p>
+            return;
+        }
+
+        else
+        {
+            <img src="~/images/placeholder.png" class="card-img-top" alt="No File Available" />
+        }
+
+        <div class="card-body">
+            <h5 class="card-title">@Model.EventName</h5>
+            <p class="card-text">Event Details:</p>
+
+            <p><strong>Description:</strong> @Html.DisplayFor(model => model.Description)</p>
+            <p><strong>Date:</strong> @Model.EventDate.ToShortDateString()</p>
+            <p><strong>Venue:</strong> @Html.DisplayFor(model => model.VenueName)</p>
+            <p><strong>Location:</strong> @Html.DisplayFor(model => model.Location)</p>
+            <p><strong>Capacity:</strong> @Html.DisplayFor(model => model.Capacity)</p>
+            <p><strong>Booking Date:</strong> @Model.BookingDate.ToShortDateString()</p>
+
+            <a class="btn btn-outline-info" asp-action="Details" asp-route-id="@Model.EventId">Details</a>
+            <a class="btn btn-success" asp-action="Edit" asp-route-id="@Model.EventId">Edit</a>
+            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@Model.EventId">Delete</a>
+        </div>
+    </div>
+</div>
